@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Contable</string>
+    <string name="app_name">Control renta</string>
+
+    <string name="saludo_txt">Hola, </string>
+    <string name="dia_txt">Mi dia a dia</string>
+    <string name="ingresos_txt">Ingresos</string>
+    <string name="gastos_txt">Gastos</string>
+    <string name="entrada_txt">Entrada</string>
+    <string name="salida_txt">Salida</string>
+    <string name="renta_txt">Rentas</string>
+    <string name="banco_txt">Banco</string>
+    <string name="caja_txt">Caja</string>
+    <string name="singo_txt">$</string>
+
 </resources>
